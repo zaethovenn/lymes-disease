@@ -16,6 +16,8 @@ In terms of supporting literature, our first article is a review of Lyme disease
 
 Overall, we believe that our tool, along with our supporting literature, gives us enough resources to research and answer our proposed research question.
 
+link for our tool: https://www.novusbio.com/diseases/lyme-disease
+
 Links to our supporting literature:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3542482/
 https://www.jci.org/articles/view/21681
