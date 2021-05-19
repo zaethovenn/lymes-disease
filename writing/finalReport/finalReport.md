@@ -62,7 +62,7 @@ from the most reported cases, with the most affected countries being
 Germany, Austria, Slovenia, and Sweden (Steere). In Austria and Slovenia,
 cases reach up to 120-130 per 100,000 residents (Biesiada).
 
-![table 1](graphics/table1.png)
+![Table 1](graphics/table1.png?raw=true)
 
 As mentioned previously, Lyme disease is contracted by humans through tick
 bite. Ticks typically feed during each of the three stages of their life
@@ -74,7 +74,7 @@ in the weeks surrounding the summer solstice” (Steere). Found below is a
 diagram that displays the different stages of ticks as well as when they
 transmit to humans and other animals.
 
-![table 2](graphics/table2-lifecycle.png)
+![Table 2](graphics/table2-lifecycle.png?raw=true)
 
 Lyme disease is diagnosed in a patient who had been recently exposed to
 ticks who also shows the symptoms that are typically associated with the
